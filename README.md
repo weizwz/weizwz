@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://weizwz.com/">
   <img align="left" alt="weizwz's blog" src="https://github.com/weizwz/weizwz/blob/main/weizwz.jpg" />
 </a>
-<br>
+
 <a href="https://github.com/weizwz">
   <img align="left" alt="github's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
 </a>
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
   <img align="left" alt="gitee's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitee.svg" />
 </a>
 <a href="https://weizwz.com">
-  <img align="left" alt="my blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/blogger.svg" />
+  <img align="left" alt="my blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/webflow.svg" />
 </a>
 <a href="https://www.cnblogs.com/weizwz/">
-  <img align="left" alt="cnblog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
+  <img align="left" alt="cnblog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 <br>
@@ -39,12 +39,14 @@ Here are some ideas to get you started:
   
 **Languages Known:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-- 📫 Reach Me @: weizwz@foxmail.com;
+✍ Reach Me @: weizwz@foxmail.com
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
