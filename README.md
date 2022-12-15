@@ -19,8 +19,21 @@ Here are some ideas to get you started:
 
 <a href="https://weizwz.com/">
   <img align="left" alt="weizwz's blog" src="https://github.com/weizwz/weizwz/blob/main/weizwz.jpg" />
-</a> 
+</a>
 <br>
+<a href="https://github.com/weizwz">
+  <img align="left" alt="github's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
+</a>
+<a href="https://gitee.com/weizwz">
+  <img align="left" alt="gitee's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitee.svg" />
+</a>
+<a href="https://weizwz.com">
+  <img align="left" alt="my blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/blogger.svg" />
+</a>
+<a href="https://www.cnblogs.com/weizwz/">
+  <img align="left" alt="cnblog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
+</a>
+
 <br>
 <br>
   
