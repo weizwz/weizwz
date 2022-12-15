@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 <br>
 ✍ Reach Me @: weizwz@foxmail.com
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
