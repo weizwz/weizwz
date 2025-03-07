@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 <br>
 
-**Languages Known:**  
+<text align="left">**Languages Known:**  </text>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- snake contribution -->
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
