@@ -46,8 +46,10 @@ Here are some ideas to get you started:
 <code><img width="25" alt="Vite" src="https://api.iconify.design/material-icon-theme/vite.svg" title="Vite"/></code>
 <code><img width="25" alt="webpack" src="https://api.iconify.design/material-icon-theme/webpack.svg"></code>
 <code><img width="25" alt="element-plus" src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff"></code>
+<code><img width="25" alt="微信小程序" src="https://api.iconify.design/mingcute/wechat-miniprogram-fill.svg?color=%231FB85C"></code>
 <code><img width="25" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code>
 <code><img width="25" alt="terminal" src="https://api.iconify.design/mynaui/terminal-solid.svg?color=%231d1d1d"></code>
+<code><img width="25" alt="photoshop" src="https://api.iconify.design/iconoir/adobe-photoshop-solid.svg?color=%2331a8ff"></code>
 <code><img width="25" alt="vscode" src="https://api.iconify.design/material-icon-theme/vscode.svg"></code>
 
 <br>
