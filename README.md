@@ -50,6 +50,13 @@ Here are some ideas to get you started:
 
 <br>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
+<br>
 
+<!-- snake contribution -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
