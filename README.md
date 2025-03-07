@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://weizwz.com/">
+<a href="https://note.weizwz.com/">
   <img align="left" alt="weizwz's blog" src="https://github.com/weizwz/weizwz/blob/main/weizwz.jpg" />
 </a>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://gitee.com/weizwz">
   <img align="left" alt="gitee's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitee.svg" />
 </a>
-<a href="https://weizwz.com">
+<a href="https://note.weizwz.com">
   <img align="left" alt="my blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/webflow.svg" />
 </a>
 <a href="https://www.cnblogs.com/weizwz/">
@@ -53,5 +53,3 @@ Here are some ideas to get you started:
 ✍ Reach Me @: weizwz@foxmail.com
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
