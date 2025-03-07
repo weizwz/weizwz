@@ -38,19 +38,17 @@ Here are some ideas to get you started:
 
 **Languages Known:**
 
-<code><img width="25" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img width="25" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img width="25" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img width="25" alt="nodejs" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code>
-<code><img width="25" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img width="25" alt="webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img width="25" alt="Vite" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" title="Vite"/></code>
-<code><img width="25" alt="Ant Design" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" title="Ant Design"/></code>
-<code><img width="25" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img width="25" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img width="25" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img width="25" alt="javascript" src="https://api.iconify.design/material-icon-theme/javascript.svg"></code>
+<code><img width="25" alt="typescript" src="https://api.iconify.design/material-icon-theme/typescript.svg"></code>
+<code><img width="25" alt="sass" src="https://api.iconify.design/material-icon-theme/sass.svg"></code>
+<code><img width="25" alt="nodejs" src="https://api.iconify.design/material-icon-theme/nodejs.svg"></code>
+<code><img width="25" alt="vue" src="https://api.iconify.design/material-icon-theme/vue.svg"></code>
+<code><img width="25" alt="Vite" src="https://api.iconify.design/material-icon-theme/vite.svg" title="Vite"/></code>
+<code><img width="25" alt="webpack" src="https://api.iconify.design/material-icon-theme/webpack.svg"></code>
+<code><img width="25" alt="element-plus" src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff"></code>
+<code><img width="25" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code>
+<code><img width="25" alt="terminal" src="https://api.iconify.design/mynaui/terminal-solid.svg?color=%231d1d1d"></code>
+<code><img width="25" alt="vscode" src="https://api.iconify.design/material-icon-theme/vscode.svg"></code>
 
 <br>
 
