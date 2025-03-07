@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+
 <a href="https://github.com/weizwz">
   <img align="left" alt="github's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
 </a>  
@@ -32,6 +34,8 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true" />
   
+<br>
+
 <br>
 
 <br>
