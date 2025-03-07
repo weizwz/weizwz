@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 
 ✍ Reach Me @: weizwz@foxmail.com
 
-<br>
-
 <!-- snake contribution -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
