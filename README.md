@@ -43,8 +43,11 @@ Here are some ideas to get you started:
 <code><img width="25" alt="sass" src="https://api.iconify.design/material-icon-theme/sass.svg"></code>
 <code><img width="25" alt="nodejs" src="https://api.iconify.design/material-icon-theme/nodejs.svg"></code>
 <code><img width="25" alt="vue" src="https://api.iconify.design/material-icon-theme/vue.svg"></code>
+<code><img width="25" alt="react" src="https://api.iconify.design/material-icon-theme/react.svg"></code>
+<code><img width="25" alt="Nextjs" src="https://api.iconify.design/devicon/nextjs.svg"></code>
 <code><img width="25" alt="Vite" src="https://api.iconify.design/material-icon-theme/vite.svg" title="Vite"/></code>
 <code><img width="25" alt="webpack" src="https://api.iconify.design/material-icon-theme/webpack.svg"></code>
+<code><img width="25" alt="tailwindcss" src="https://api.iconify.design/material-icon-theme/tailwindcss.svg"></code>
 <code><img width="25" alt="element-plus" src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff"></code>
 <code><img width="25" alt="微信小程序" src="https://api.iconify.design/mingcute/wechat-miniprogram-fill.svg?color=%231FB85C"></code>
 <code><img width="25" alt="git" src="https://api.iconify.design/material-icon-theme/git.svg"></code>
