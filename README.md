@@ -1,7 +1,8 @@
 # >_ Hello, Friend!
 [![Portfolio](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=%40thehackingsage&up_color=blue&up_message=portfolio&url=https%3A%2F%2Fweizwz.github.io)](https://note.weizwz.com)
 [![Github](https://img.shields.io/github/followers/weizwz?style=social)](https://github.com/weizwz/)
- ![](https://visitor-badge.glitch.me/badge?page_id=weizwz.weizwz)
+![GitHub User's stars](https://img.shields.io/github/stars/weizwz)
+
 <!--
 **weizwz/weizwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
