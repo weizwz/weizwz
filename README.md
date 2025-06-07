@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="left" alt="my blog" width="30px" src="https://api.iconify.design/simple-icons/bloglovin.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
-  <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/mingcute/rss-fill.svg" />
+  <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/fa/rss-square.svg" />
 </a>  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true&&rank_icon=percentile" />
