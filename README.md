@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/weizwz">
-  <img align="left" alt="github's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
+  <img align="left" alt="github's code" width="30px" src="https://api.iconify.design/simple-icons-github.svg" />
 </a>  
 <a href="https://gitee.com/weizwz">
-  <img align="left" alt="gitee's code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitee.svg" />
+  <img align="left" alt="gitee's code" width="30px" src="https://api.iconify.design/simple-icons-gitee.svg" />
 </a>  
 <a href="https://note.weizwz.com">
-  <img align="left" alt="my blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/webflow.svg" />
+  <img align="left" alt="my blog" width="30px" src="https://api.iconify.design/simple-icons-bloglovin.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
-  <img align="left" alt="cnblog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/mingcute-rss-fill.svg" />
 </a>  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true&&rank_icon=percentile" />
