@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="gitee's code" width="30px" src="https://api.iconify.design/simple-icons/gitee.svg" />
 </a>  
 <a href="https://note.weizwz.com">
-  <img align="left" alt="my blog" width="30px" src="https://api.iconify.design/simple-icons/bloglovin.svg" />
+  <img align="left" alt="my blog" width="30px" src="https://p.weizwz.com/logo_dark.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
   <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/fa/rss-square.svg" />
