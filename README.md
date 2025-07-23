@@ -1,5 +1,5 @@
 # >_ Hello, Friend!
-[![Portfolio](https://img.shields.io/homepage?down_color=lightgrey&down_message=offline&logo=%40thehackingsage&up_color=blue&up_message=weizwz&url=https%3A%2F%2Fweizwz.com)](https://weizwz.com)
+[![Portfolio](https://img.shields.io/badge/homepage-weizwz-blue)](https://weizwz.com)
 [![Github](https://img.shields.io/github/followers/weizwz?style=social)](https://github.com/weizwz/)
 ![GitHub User's stars](https://img.shields.io/github/stars/weizwz)
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img align="left" alt="gitee's code" width="30px" src="https://api.iconify.design/simple-icons/gitee.svg" />
 </a>  
 <a href="https://note.weizwz.com">
-  <img align="left" alt="my blog" width="36px" src="https://p.weizwz.com/logo_dark.svg" />
+  <img align="left" alt="my blog" width="35px" src="https://p.weizwz.com/logo_dark.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
-  <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/fa/rss-square.svg" />
+  <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/famicons:logo-rss.svg" />
 </a>  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true&&rank_icon=percentile" />
