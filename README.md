@@ -14,12 +14,13 @@
   <img align="left" alt="gitee's code" width="30px" src="https://api.iconify.design/simple-icons/gitee.svg" />
 </a>  
 <a href="https://note.weizwz.com">
-  <img align="left" alt="my blog" width="35px" src="./img/logo_dark.svg" />
+  <img align="left" alt="my blog" width="32px" src="./img/logo_dark.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
   <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/famicons:logo-rss.svg" />
 </a>  
 
+<br>
 <br>
 <br>
 
