@@ -3,6 +3,12 @@
 [![Github](https://img.shields.io/github/followers/weizwz?style=social)](https://github.com/weizwz/)
 ![GitHub User's stars](https://img.shields.io/github/stars/weizwz)
 
+<a href="https://weizwz.com">
+  <img align="left" alt="Home Page" width="200px" src="./img/coding.svg" />
+</a>  
+
+<br>
+
 <a href="https://github.com/weizwz">
   <img align="left" alt="github's code" width="30px" src="https://api.iconify.design/simple-icons/github.svg" />
 </a>  
