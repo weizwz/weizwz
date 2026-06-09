@@ -1,22 +1,7 @@
-# >_ Hello, Friend!
-[![Portfolio](https://img.shields.io/badge/homepage-weizwz-blue)](https://weizwz.com)
+# >_ Hello, Friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+[![Portfolio](https://img.shields.io/badge/Homepage-weizwz-blue)](https://weizwz.com)
 [![Github](https://img.shields.io/github/followers/weizwz?style=social)](https://github.com/weizwz/)
 ![GitHub User's stars](https://img.shields.io/github/stars/weizwz)
-
-<!--
-**weizwz/weizwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <a href="https://github.com/weizwz">
   <img align="left" alt="github's code" width="30px" src="https://api.iconify.design/simple-icons/github.svg" />
@@ -25,13 +10,12 @@ Here are some ideas to get you started:
   <img align="left" alt="gitee's code" width="30px" src="https://api.iconify.design/simple-icons/gitee.svg" />
 </a>  
 <a href="https://note.weizwz.com">
-  <img align="left" alt="my blog" width="35px" src="https://p.weizwz.com/logo_dark.svg" />
+  <img align="left" alt="my blog" width="35px" src="./img/logo_dark.svg" />
 </a>  
 <a href="https://www.cnblogs.com/weizwz/">
   <img align="left" alt="cnblog" width="30px" src="https://api.iconify.design/famicons:logo-rss.svg" />
 </a>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=weizwz&&show_icons=true&&rank_icon=percentile" />
   
 <br>
 
